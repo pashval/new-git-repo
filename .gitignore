@@ -1,0 +1,25 @@
+# .gitignore
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+*.o
+*.out
+*.exe
+
+*.log
+
+*.tmp
+
+package-lock.json
+
+.env
+
+*.db
+*.sqlite
+
+config.ini
+secrets.txt
